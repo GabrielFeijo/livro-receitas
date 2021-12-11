@@ -16,7 +16,7 @@
 
   - molho de tomate
 
-  - 300 g de queijo mussarela em pedaços (não fatias)
+  - 300 g de queijo mozzarella em pedaços (não fatias)
 
   - 3 tomates cortados em fatias
 
@@ -26,8 +26,6 @@
 
 ## MODO DE PREPARO
 
-
-
 ### MASSA:
 
 1. Misture o sal, o açúcar, o fermento, a farinha de trigo e misture bem acrescentando a água aos poucos. Misture com as mãos e vá sovando até que a massa fique lisinha e desgrude das mãos.
@@ -36,6 +34,6 @@
 
 ### RECHEIO:
 
-1. Em um recipiente, rale a mussarela e misture o orégano.
-2. Após retirar a massa do forno, espalhe o molho de tomate a gosto e despeje por cima a mussarela e os tomates.
+1. Em um recipiente, rale a mozzarella e misture o orégano.
+2. Após retirar a massa do forno, espalhe o molho de tomate a gosto e despeje por cima a mozzarella e os tomates.
 3. Leve ao forno até derreter todo o queijo.
